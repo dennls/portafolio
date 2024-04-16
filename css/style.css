@@ -251,7 +251,7 @@ section .title::after{
 {
     text-decoration: none;
     color: #fff;
-    font-size: 2em;
+    font-size: 1.5em;
     z-index: 10;
     cursor: pointer;
 }
@@ -741,7 +741,7 @@ section .title::after{
 
 /* projects section styling */
 .teams .title::after{
-    content: "Projects Done";
+    content: "Proyectos";
 }
 .teams .carousel .card{
     background: #222;
